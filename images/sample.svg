@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" role="img" aria-label="예시 이미지">
+  <rect width="800" height="360" fill="#dbe7f6"/>
+  <circle cx="620" cy="110" r="52" fill="#f6d36b"/>
+  <path d="M0 290 L180 170 L320 260 L470 140 L800 300 L800 360 L0 360 Z" fill="#7aa5d8"/>
+  <path d="M0 320 L240 230 L420 300 L600 220 L800 320 L800 360 L0 360 Z" fill="#3f6fa8"/>
+</svg>
